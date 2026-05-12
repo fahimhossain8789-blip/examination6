@@ -12,8 +12,10 @@ import Pricing from "./components/Home/Pricing/Pricing";
 import Transform from "./components/Home/Transform/Transform";
 import Footer from "./components/Home/Footer/Footer";
 
+
 const productsFetch = async () => {
-  const res = await fetch("/productData.json");
+  
+  const res = await fetch("productData.json"); 
   return res.json();
 };
 const promiseData = productsFetch();
