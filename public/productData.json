@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "ProResume AI",
+    "description": "AI-powered resume builder with smart templates and real-time ATS scoring. Perfect for quick job applications.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["200+ modern templates", "Real-time ATS optimization", "AI bullet point generator", "Export to PDF & Word", "Cover letter builder"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 2,
+    "name": "CareerBoost Premium",
+    "description": "Advanced resume and cover letter suite with LinkedIn optimization and job matching tools.",
+    "price": 89.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Unlimited resumes & downloads", "LinkedIn profile optimizer", "AI content suggestions", "Job description matcher", "Interview preparation kit"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1041/1041728.png"
+  },
+  {
+    "id": 3,
+    "name": "ATS Master",
+    "description": "Specialized tool focused on beating Applicant Tracking Systems with keyword optimization.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["ATS score checker", "Keyword targeting AI", "100+ ATS-friendly templates", "Resume tailoring tool", "Detailed match reports"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/4300/4300059.png"
+  },
+  {
+    "id": 4,
+    "name": "DesignResume Pro",
+    "description": "Beautifully designed resumes with creative templates for creative professionals and designers.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "",
+    "tagType": "",
+    "features": ["150+ creative templates", "Custom color themes", "One-click PDF export", "Portfolio integration", "AI design suggestions"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3340/3340235.png"
+  },
+  {
+    "id": 5,
+    "name": "Executive Resume Builder",
+    "description": "Premium package for senior professionals and C-level executives with personalized coaching.",
+    "price": 199.00,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Executive templates", "Personal branding AI", "Multiple format exports", "Cover letter + thank you note", "Lifetime updates"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 6,
+    "name": "QuickApply Starter",
+    "description": "Fast and simple resume creator ideal for fresh graduates and entry-level job seekers.",
+    "price": 4.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["50+ simple templates", "Guided step-by-step builder", "Basic ATS check", "PDF export", "Free cover letter"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/942/942748.png"
+  },
+  {
+    "id": 7,
+    "name": "JobScan Pro",
+    "description": "Powerful resume scanner and optimizer that analyzes your resume against real job descriptions.",
+    "price": 49.99,
+    "period": "yearly",
+    "tag": "",
+    "tagType": "",
+    "features": ["Unlimited job scans", "Match score improvement", "AI rewrite suggestions", "Keyword database", "Progress tracking"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/709/709606.png"
+  },
+  {
+    "id": 8,
+    "name": "Teal AI Resume",
+    "description": "All-in-one job search platform with resume builder, job tracker, and application pipeline.",
+    "price": 29.00,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Job application tracker", "AI resume tailoring", "Interview question prep", "Unlimited exports", "Team collaboration"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 9,
+    "name": "Freelance Portfolio Pro",
+    "description": "Professional portfolio builder for freelancers and creative professionals with stunning project showcase templates.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "50+ portfolio templates",
+      "Project showcase builder",
+      "Client testimonial section",
+      "Mobile responsive design",
+      "PDF & Web export",
+      "Custom domain support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  }
+]
